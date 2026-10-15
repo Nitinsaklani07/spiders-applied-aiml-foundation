@@ -15,7 +15,7 @@ unique_marks = set(marks)
 print("\nUnique marks:", unique_marks)
 
 # Dictionary: key-value pairs
-student = {"name": "Asha", "branch": "CSE AI/ML", "semester": 5}
+student = {"name": "Nitin", "branch": "CSE AI/ML", "semester": 5}
 student["semester"] = 6
 print("\nDictionary:", student)
 print("Student name:", student["name"])
