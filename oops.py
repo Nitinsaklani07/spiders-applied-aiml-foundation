@@ -23,5 +23,5 @@ class Student:
 
 
 if __name__ == "__main__":
-    student = Student("Asha", "CSE AI/ML", [78, 85, 91])
+    student = Student("Nitin", "CSE AI/ML", [78, 85, 91])
     student.display()
